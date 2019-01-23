@@ -145,12 +145,13 @@ body {
 
 }
 
-.content-card span {
+.content-card a {
   color: #56CCF2;
+  font-size: 14px;
   font-style: italic;
   font-weight: normal;
   line-height: 23px;
-  font-size: 14px;
+  text-decoration: none;
 }
 
 .btn-group {
